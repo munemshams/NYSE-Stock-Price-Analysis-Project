@@ -6,19 +6,19 @@ The raw dataset is included in the CSV file.
 
 # The Project includes:
 
-Historical stock price retrieval (adjusted close, open, high, low, volume)
+- Historical stock price retrieval (adjusted close, open, high, low, volume)
 
-Daily returns calculation
+- Daily returns calculation
 
-Cumulative returns calculation
+- Cumulative returns calculation
 
-Trend visualization using ggplot2
+- Trend visualization using ggplot2
 
-Volatility and risk evaluation
+- Volatility and risk evaluation
 
-Comparison of performance across multiple companies
+- Comparison of performance across multiple companies
 
-Clean, reproducible financial time-series workflow
+- Clean, reproducible financial time-series workflow
 
 # Libraries used in R:
 
